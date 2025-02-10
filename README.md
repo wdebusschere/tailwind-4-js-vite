@@ -1,4 +1,4 @@
-Tailwind CSS + Vanilla JS + Vite Starter
+Tailwind CSS 4 + Vanilla JS + Vite Starter
 ===========================
 
 [](https://github.com/wdebusschere/tailwind-4-js-vite)
