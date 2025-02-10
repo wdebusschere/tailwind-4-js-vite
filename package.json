@@ -1,0 +1,19 @@
+{
+  "name": "tailwindcss4",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.4",
+    "tailwindcss": "^4.0.4"
+  },
+  "devDependencies": {
+    "vite": "^6.1.0"
+  }
+}
